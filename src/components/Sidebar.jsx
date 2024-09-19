@@ -3,7 +3,7 @@ import { SidebarHeading, SidebarItem, SearchBox } from "../elements/index";
 
 const Sidebar = () => {
   return (
-    <div className=" min-h-screen  py-4 px-16">
+    <div className=" min-h-screen  py-4 ">
       <div className="sidebar-group border-bottom pb-10">
         <SidebarHeading heading={"Skills"} />
         <SearchBox name={"Skills"} />

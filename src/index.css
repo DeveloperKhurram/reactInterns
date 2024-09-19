@@ -1,11 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-:root {
-  --width: 100px;
-  --height: 50px;
-  --quantity: 13;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
 }
 html {
   font-size: 62.5%;
@@ -22,6 +22,12 @@ html {
   width: 200%;
   animation: marquee 35s linear infinite;
   -webkit-animation: marquee 35s linear infinite;
+}
+
+@media (width <= 320px) {
+  .marquee {
+    animation-duration: 15s;
+  }
 }
 
 .marquee-item {
@@ -81,10 +87,14 @@ html {
   background: green;
 
   & .nav-link {
-    color: white ;
+    color: white;
   }
 }
 
 .nav-item.disabled {
   border: 0.1rem solid lightgray;
+}
+
+.skill-row:last-child {
+  margin-bottom: 0;
 }

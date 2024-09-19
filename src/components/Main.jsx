@@ -8,7 +8,9 @@ const Main = () => {
     <div className=" min-h-screen">
       <List>
         {data.map((intern) => (
-          <Card key={intern.id} image={image[intern.picture]} {...intern} />
+          <div className="col-md-6 col-lg-4 col-xl-4" key={intern.id}>
+            <Card image={image[intern.picture]} {...intern} />
+          </div>
         ))}
       </List>
 
