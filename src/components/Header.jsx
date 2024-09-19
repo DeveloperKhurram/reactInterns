@@ -1,13 +1,27 @@
 import React from "react";
+import data from "../data/interns.json";
+import * as image from "../images";
+import { ListMarquee, CardMarquee } from "../elements/index.js";
 
 const Header = () => {
+  const filteredStudents = data.filter((intern) => intern.grade > 90);
+
+  const repeatedStudents = [...filteredStudents, ...filteredStudents];
   return (
-    <div className="w-full h-auto py-4 px-8 text-red-50 text-3xl  bg-slate-700">
+    <div className="py-4 px-8 text-gray-900 text-3xl">
       <h1 className="text-center font-bold">Recommended Interns</h1>
 
-      <div className="marquee my-8  px-3 ">
-        <div className="marquee-content">Your scrolling text goes here!</div>
-      </div>
+      <ListMarquee>
+        <div className="marquee-container my-8">
+          <div className="marquee">
+            {filteredStudents.map((intern) => (
+              <div className="marquee-item" key={intern.id}>
+                <CardMarquee image={image[intern.picture]} {...intern} />
+              </div>
+            ))}
+          </div>
+        </div>
+      </ListMarquee>
     </div>
   );
 };

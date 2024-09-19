@@ -1,0 +1,3604 @@
+[
+      {
+        "id": 1,
+        "name": "Alice Smith",
+        "gender": "Female",
+        "position": "Frontend Developer",
+        "email": "alice.smith@example.com",
+        "phone": "+1-123-456-7890",
+        "location": {
+          "city": "San Francisco",
+          "state": "California",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "React"],
+        "picture": "personOne",
+        "grade": 82,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 2,
+        "name": "John Doe",
+        "gender": "Male",
+        "position": "Backend Developer",
+        "email": "john.doe@example.com",
+        "phone": "+1-234-567-8901",
+        "location": {
+          "city": "New York",
+          "state": "New York",
+          "country": "USA"
+        },
+        "skills": ["Node.js", "Express", "MongoDB"],
+        "picture": "personTwo",
+        "grade": 94,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 3,
+        "name": "Emily Davis",
+        "gender": "Female",
+        "position": "Full Stack Developer",
+        "email": "emily.davis@example.com",
+        "phone": "+1-345-678-9012",
+        "location": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "USA"
+        },
+        "skills": ["React", "Node.js", "MySQL", "JavaScript"],
+        "picture": "personThree",
+        "grade": 91,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 4,
+        "name": "Michael Brown",
+        "gender": "Male",
+        "position": "Frontend Developer",
+        "email": "michael.brown@example.com",
+        "phone": "+1-456-789-0123",
+        "location": {
+          "city": "Chicago",
+          "state": "Illinois",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "Vue.js", "JavaScript"],
+        "picture": "personFour",
+        "grade": 75,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 5,
+        "name": "Sophia Martinez",
+        "gender": "Female",
+        "position": "Backend Developer",
+        "email": "sophia.martinez@example.com",
+        "phone": "+1-567-890-1234",
+        "location": {
+          "city": "Houston",
+          "state": "Texas",
+          "country": "USA"
+        },
+        "skills": ["Python", "Django", "PostgreSQL"],
+        "picture": "personFive",
+        "grade": 93,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 6,
+        "name": "James Johnson",
+        "gender": "Male",
+        "position": "Full Stack Developer",
+        "email": "james.johnson@example.com",
+        "phone": "+1-678-901-2345",
+        "location": {
+          "city": "Austin",
+          "state": "Texas",
+          "country": "USA"
+        },
+        "skills": ["Angular", "Node.js", "MongoDB"],
+        "picture": "personSix",
+        "grade": 86,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 7,
+        "name": "Isabella Wilson",
+        "gender": "Female",
+        "position": "Frontend Developer",
+        "email": "isabella.wilson@example.com",
+        "phone": "+1-789-012-3456",
+        "location": {
+          "city": "Phoenix",
+          "state": "Arizona",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "picture": "personSeven",
+        "grade": 92,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 8,
+        "name": "Daniel Miller",
+        "gender": "Male",
+        "position": "Backend Developer",
+        "email": "daniel.miller@example.com",
+        "phone": "+1-890-123-4567",
+        "location": {
+          "city": "Dallas",
+          "state": "Texas",
+          "country": "USA"
+        },
+        "skills": ["Java", "Spring Boot", "MySQL"],
+        "picture": "personEight",
+        "grade": 80,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 9,
+        "name": "Mia Anderson",
+        "gender": "Female",
+        "position": "Full Stack Developer",
+        "email": "mia.anderson@example.com",
+        "phone": "+1-901-234-5678",
+        "location": {
+          "city": "San Diego",
+          "state": "California",
+          "country": "USA"
+        },
+        "skills": ["React", "Node.js", "MongoDB", "JavaScript"],
+        "picture": "personNine",
+        "grade": 74,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 10,
+        "name": "William Lee",
+        "gender": "Male",
+        "position": "Frontend Developer",
+        "email": "william.lee@example.com",
+        "phone": "+1-012-345-6789",
+        "location": {
+          "city": "Seattle",
+          "state": "Washington",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "Vue.js"],
+        "picture": "personTen",
+        "grade": 67,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 11,
+        "name": "Olivia Thompson",
+        "gender": "Female",
+        "position": "Backend Developer",
+        "email": "olivia.thompson@example.com",
+        "phone": "+1-123-456-7891",
+        "location": {
+          "city": "Denver",
+          "state": "Colorado",
+          "country": "USA"
+        },
+        "skills": ["Node.js", "Express", "PostgreSQL"],
+        "picture": "personEleven",
+        "grade": 91,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 12,
+        "name": "Henry White",
+        "gender": "Male",
+        "position": "Full Stack Developer",
+        "email": "henry.white@example.com",
+        "phone": "+1-234-567-8902",
+        "location": {
+          "city": "Portland",
+          "state": "Oregon",
+          "country": "USA"
+        },
+        "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+        "picture": "personTwelve",
+        "grade": 93,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 13,
+        "name": "Charlotte Harris",
+        "gender": "Female",
+        "position": "Frontend Developer",
+        "email": "charlotte.harris@example.com",
+        "phone": "+1-345-678-9013",
+        "location": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "picture": "personThirteen",
+        "grade": 95,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 14,
+        "name": "Liam Clark",
+        "gender": "Male",
+        "position": "Backend Developer",
+        "email": "liam.clark@example.com",
+        "phone": "+1-456-789-0124",
+        "location": {
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "country": "USA"
+        },
+        "skills": ["Python", "Django", "SQLite"],
+        "picture": "personFourteen",
+        "grade": 92,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 15,
+        "name": "Amelia Lewis",
+        "gender": "Female",
+        "position": "Full Stack Developer",
+        "email": "amelia.lewis@example.com",
+        "phone": "+1-567-890-1235",
+        "location": {
+          "city": "Atlanta",
+          "state": "Georgia",
+          "country": "USA"
+        },
+        "skills": ["React", "Node.js", "MySQL", "JavaScript"],
+        "picture": "personFifteen",
+        "grade": 94,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 16,
+        "name": "Mason Walker",
+        "gender": "Male",
+        "position": "Frontend Developer",
+        "email": "mason.walker@example.com",
+        "phone": "+1-678-901-2346",
+        "location": {
+          "city": "Miami",
+          "state": "Florida",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "React"],
+        "picture": "personSixteen",
+        "grade": 96,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 17,
+        "name": "Evelyn Scott",
+        "gender": "Female",
+        "position": "Backend Developer",
+        "email": "evelyn.scott@example.com",
+        "phone": "+1-789-012-3457",
+        "location": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "country": "USA"
+        },
+        "skills": ["Java", "Spring Boot", "MySQL"],
+        "picture": "personSeventeen",
+        "grade": 87,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 18,
+        "name": "Benjamin Adams",
+        "gender": "Male",
+        "position": "Full Stack Developer",
+        "email": "benjamin.adams@example.com",
+        "phone": "+1-890-123-4568",
+        "location": {
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "country": "USA"
+        },
+        "skills": ["JavaScript", "Node.js", "React", "MongoDB"],
+        "picture": "personEighteen",
+        "grade": 97,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 19,
+        "name": "Ella Moore",
+        "gender": "Female",
+        "position": "Frontend Developer",
+        "email": "ella.moore@example.com",
+        "phone": "+1-901-234-5679",
+        "location": {
+          "city": "Charlotte",
+          "state": "North Carolina",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "Vue.js"],
+        "picture": "personNineteen",
+        "grade": 82,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 20,
+        "name": "Lucas Hall",
+        "gender": "Male",
+        "position": "Backend Developer",
+        "email": "lucas.hall@example.com",
+        "phone": "+1-012-345-6780",
+        "location": {
+          "city": "San Antonio",
+          "state": "Texas",
+          "country": "USA"
+        },
+        "skills": ["Node.js", "Express", "MongoDB"],
+        "picture": "personTwenty",
+        "grade": 91,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 21,
+        "name": "Ava Young",
+        "gender": "Female",
+        "position": "Full Stack Developer",
+        "email": "ava.young@example.com",
+        "phone": "+1-123-456-7892",
+        "location": {
+          "city": "Orlando",
+          "state": "Florida",
+          "country": "USA"
+        },
+        "skills": ["React", "Node.js", "JavaScript", "MongoDB"],
+        "picture": "personTwentyOne",
+        "grade": 73,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 22,
+        "name": "Logan Hernandez",
+        "gender": "Male",
+        "position": "Frontend Developer",
+        "email": "logan.hernandez@example.com",
+        "phone": "+1-234-567-8903",
+        "location": {
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "Angular"],
+        "picture": "personTwentyTwo",
+        "grade": 94,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 23,
+        "name": "Grace King",
+        "gender": "Female",
+        "position": "Backend Developer",
+        "email": "grace.king@example.com",
+        "phone": "+1-345-678-9014",
+        "location": {
+          "city": "Nashville",
+          "state": "Tennessee",
+          "country": "USA"
+        },
+        "skills": ["Python", "Django", "SQLite"],
+        "picture": "personTwentyThree",
+        "grade": 68,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 24,
+        "name": "Alexander Wright",
+        "gender": "Male",
+        "position": "Full Stack Developer",
+        "email": "alexander.wright@example.com",
+        "phone": "+1-456-789-0125",
+        "location": {
+          "city": "Kansas City",
+          "state": "Missouri",
+          "country": "USA"
+        },
+        "skills": ["React", "Node.js", "JavaScript", "MySQL"],
+        "picture": "personTwentyFour",
+        "grade": 85,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 25,
+        "name": "Harper Martin",
+        "gender": "Female",
+        "position": "Frontend Developer",
+        "email": "harper.martin@example.com",
+        "phone": "+1-567-890-1236",
+        "location": {
+          "city": "Omaha",
+          "state": "Nebraska",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+        "picture": "personTwentyFive",
+        "grade": 77,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 26,
+        "name": "Sebastian Rodriguez",
+        "gender": "Male",
+        "position": "Backend Developer",
+        "email": "sebastian.rodriguez@example.com",
+        "phone": "+1-678-901-2347",
+        "location": {
+          "city": "Las Vegas",
+          "state": "Nevada",
+          "country": "USA"
+        },
+        "skills": ["Node.js", "Express", "MySQL"],
+        "picture": "personTwentySix",
+        "grade": 89,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 27,
+        "name": "Scarlett Walker",
+        "gender": "Female",
+        "position": "Full Stack Developer",
+        "email": "scarlett.walker@example.com",
+        "phone": "+1-789-012-3458",
+        "location": {
+          "city": "Detroit",
+          "state": "Michigan",
+          "country": "USA"
+        },
+        "skills": ["React", "Node.js", "MongoDB", "JavaScript"],
+        "picture": "personTwentySeven",
+        "grade": 84,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 28,
+        "name": "Aiden Scott",
+        "gender": "Male",
+        "position": "Frontend Developer",
+        "email": "aiden.scott@example.com",
+        "phone": "+1-890-123-4569",
+        "location": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "country": "USA"
+        },
+        "skills": ["HTML", "CSS", "JavaScript", "Vue.js"],
+        "picture": "personTwentyEight",
+        "grade": 81,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 29,
+        "name": "Victoria Rivera",
+        "gender": "Female",
+        "position": "Backend Developer",
+        "email": "victoria.rivera@example.com",
+        "phone": "+1-901-234-5671",
+        "location": {
+          "city": "Columbus",
+          "state": "Ohio",
+          "country": "USA"
+        },
+        "skills": ["Python", "Django", "PostgreSQL"],
+        "picture": "personTwentyNine",
+        "grade": 72,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      },
+      {
+        "id": 30,
+        "name": "Matthew Torres",
+        "gender": "Male",
+        "position": "Full Stack Developer",
+        "email": "matthew.torres@example.com",
+        "phone": "+1-012-345-6781",
+        "location": {
+          "city": "Milwaukee",
+          "state": "Wisconsin",
+          "country": "USA"
+        },
+        "skills": ["React", "Node.js", "MongoDB", "JavaScript"],
+        "picture": "personThirty",
+        "grade": 68,
+        "linkedin": "https://www.linkedin.com/in/johndoe",
+        "github": "https://github.com/johndoe",
+        "website": "https://www.johndoe.dev",
+        "summary": "Passionate software developer with 5+ years of experience in building scalable web applications, APIs, and mobile apps. Proficient in full-stack development with a focus on delivering efficient, maintainable code. Adept at collaborating with cross-functional teams to drive software projects from concept to completion.",
+        "programming_languages": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C++"
+        ],
+        "frameworks_libraries": [
+          "React",
+          "Node.js",
+          "Django",
+          "Spring Boot"
+        ],
+        "databases": [
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL"
+        ],
+        "tools": [
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "Jenkins"
+        ],
+        "other_skills": [
+          "Agile Methodologies",
+          "RESTful APIs",
+          "Microservices",
+          "Test-Driven Development"
+        ],
+        "work_experience": [
+    {
+      "company": "TechCorp Solutions",
+      "location": "New York, USA",
+      "position": "Senior Software Developer",
+      "start_date": "2021-05-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led the design and development of a scalable microservices architecture for a fintech platform, resulting in a 40% increase in performance.",
+        "Collaborated with frontend and mobile teams to develop a React-based web application that reduced page load times by 30%.",
+        "Implemented CI/CD pipelines using Jenkins and Docker to automate software deployment, cutting down manual processes by 80%."
+      ]
+    },
+    {
+      "company": "InnovateSoft",
+      "location": "San Francisco, USA",
+      "position": "Software Developer",
+      "start_date": "2018-06-01",
+      "end_date": "2021-04-01",
+      "responsibilities": [
+        "Developed RESTful APIs in Node.js and integrated third-party services for an e-commerce application serving over 100,000 users.",
+        "Designed and implemented a database migration system using MySQL and MongoDB, resulting in a 25% improvement in data retrieval speed.",
+        "Worked closely with the QA team to implement automated testing frameworks, reducing bug reports by 20%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "graduation_year": "2018",
+      "gpa": "3.8"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio Website",
+      "description": "Developed a personal portfolio website using React and Node.js, showcasing my projects, resume, and blog.",
+      "technologies": ["React", "Node.js", "CSS", "Heroku"],
+      "github_link": "https://github.com/johndoe/portfolio",
+      "live_demo": "https://www.johndoe.dev"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Built a full-stack e-commerce platform using the MERN stack, allowing users to browse products, manage a cart, and complete purchases.",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "github_link": "https://github.com/johndoe/ecommerce-platform"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "organization": "Amazon Web Services",
+      "year": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "organization": "Cloud Native Computing Foundation",
+      "year": "2021"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Spanish",
+      "proficiency": "Intermediate"
+    }
+  ]
+      }
+]
+  
+  

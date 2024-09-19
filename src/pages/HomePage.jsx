@@ -3,18 +3,19 @@ import { Header, Main, Sidebar } from "../components/index";
 
 const HomePage = () => {
   return (
-    <div className="">
+    <>
       <Header />
-        <div className="row py-4 px-12 g-2">
-          <div className="col-md-4 ">
+      <div className="container ">
+        <div className="row py-4">
+          <div className="col-md-3 ">
             <Sidebar />
           </div>
-          <div className="col-md-8">
+          <div className="col-md-9">
             <Main />
           </div>
         </div>
-      
-    </div>
+      </div>
+    </>
   );
 };
 
