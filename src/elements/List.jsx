@@ -1,8 +1,8 @@
 import React from "react";
-
+import "./card.css";
 const List = ({ children }) => {
   return (
-    <ul className="flex flex-wrap gap-y-3 py-4">
+    <ul className="card-list">
       {children}
     </ul>
   );

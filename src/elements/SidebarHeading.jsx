@@ -4,9 +4,9 @@ import { faCaretDown } from "@fortawesome/free-solid-svg-icons";
 
 const SidebarHeading = ({ heading }) => {
   return (
-    <div className="skill-header d-flex justify-content-between pb-3 text-2xl font-bold">
+    <div className="skill-header ">
       <h2>{heading}</h2>
-      <FontAwesomeIcon icon={faCaretDown} />
+      <FontAwesomeIcon icon={faCaretDown} className="faCaretDown" />
     </div>
   );
 };

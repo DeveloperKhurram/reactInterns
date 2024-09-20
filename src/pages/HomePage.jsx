@@ -5,12 +5,12 @@ const HomePage = () => {
   return (
     <>
       <Header />
-      <div className="container ">
-        <div className="row py-4">
-          <div className="col-md-4">
+      <div className="container-fluid px-5">
+        <div className="row">
+          <div className="col-md-3 ">
             <Sidebar />
           </div>
-          <div className="col-md-8">
+          <div className="col-md-9">
             <Main />
           </div>
         </div>

@@ -5,10 +5,10 @@ import * as image from "../images";
 
 const Main = () => {
   return (
-    <div className=" min-h-screen">
+    <div className=" ">
       <List>
         {data.map((intern) => (
-          <div className="col-md-6 col-lg-4 col-xl-4" key={intern.id}>
+          <div className="col-md-6 col-lg-4" key={intern.id}>
             <Card image={image[intern.picture]} {...intern} />
           </div>
         ))}

@@ -1,0 +1,81 @@
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.2rem 0;
+}
+
+.card-item {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  background: linear-gradient(
+    to bottom right,
+    #e8edfd,
+    #e8ecfd,
+    #e9ebfc,
+    #ebeafc,
+    #eaeafc,
+    #ebeafc
+  );
+  padding: 0.8rem 1.2rem ;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 1.2rem;
+  border-radius: 0.8rem;
+  -webkit-border-radius: 0.8rem;
+  -moz-border-radius: 0.8rem;
+  -ms-border-radius: 0.8rem;
+  -o-border-radius: 0.8rem;
+}
+
+.card-item:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.card-picture {
+  width: 9rem;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.card-picture img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.card-text .borderBottom{
+    border-bottom: 0.1rem solid #482a7850;
+    padding-bottom: 0.4rem;
+    margin-bottom: 0.8rem;
+}
+
+.progressBar {
+  background-color: #76639530;
+  height: 0.8rem;
+  border-radius: 0.6rem;
+  -webkit-border-radius: 0.6rem;
+  -moz-border-radius: 0.6rem;
+  -ms-border-radius: 0.6rem;
+  -o-border-radius: 0.6rem;
+  overflow: hidden;
+  border: 0.1rem solid #351a5f;
+}
+
+.progressBar .progress-bar {
+  background-color: #351a5f;
+  transition: width 0.6s ease;
+  border: 0.1rem solid #351a5f;
+}

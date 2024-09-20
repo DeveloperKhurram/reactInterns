@@ -6,15 +6,15 @@ const SearchBox = ({ name }) => {
   // const placeholderText = typeof name === 'string' ? name : '';
 
   return (
-    <div className="search-box  d-flex gap-2 border p-3 border-gray-500 rounded-md align-items-center bg-white mb-3">
+    <div className="search-box ">
       <input
         type="text"
         name={`${name}`}
         id={`${name}`}
-        className="flex-1 bg-transparent outline-none"
+        className=""
         placeholder={`Search Other ${name}...`}
       />
-      <FontAwesomeIcon icon={faSearch} className="text-gray-500" />
+      <FontAwesomeIcon icon={faSearch} className="faSearch" />
     </div>
   );
 };

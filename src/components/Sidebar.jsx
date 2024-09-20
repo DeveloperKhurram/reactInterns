@@ -1,10 +1,11 @@
 import React from "react";
+import "./sidebar.css";
 import { SidebarHeading, SidebarItem, SearchBox } from "../elements/index";
 
 const Sidebar = () => {
   return (
-    <div className=" min-h-screen  py-4 ">
-      <div className="sidebar-group border-bottom pb-10">
+    <div className="py-4">
+      <div className="sidebar-group border-bottom pb-5">
         <SidebarHeading heading={"Skills"} />
         <SearchBox name={"Skills"} />
         <SidebarItem item={"UX Designer"} number={"1945"} />
@@ -14,7 +15,7 @@ const Sidebar = () => {
         <SidebarItem item={"UX Designer"} number={"1945"} />
       </div>
 
-      <div className="sidebar-group border-bottom pb-10">
+      <div className="sidebar-group border-bottom pb-5">
         <SidebarHeading heading={"Cities"} />
         <SearchBox name={"Cities"} />
         <SidebarItem item={"Karachi"} number={"1945"} />
@@ -24,7 +25,7 @@ const Sidebar = () => {
         <SidebarItem item={"Faisalabad"} number={"1945"} />
       </div>
 
-      <div className="sidebar-group border-bottom pb-10">
+      <div className="sidebar-group border-bottom pb-5">
         <SidebarHeading heading={"Languages"} />
         <SidebarItem item={"English"} number={"1945"} />
         <SidebarItem item={"Urdu"} number={"1945"} />
@@ -32,7 +33,7 @@ const Sidebar = () => {
         <SidebarItem item={"Others"} number={"1945"} />
       </div>
 
-      <div className="sidebar-group  pb-10">
+      <div className="sidebar-group">
         <SidebarHeading heading={"Level"} />
         <SidebarItem item={"Recommended"} number={"1945"} />
         <SidebarItem item={"Top Rated"} number={"1945"} />

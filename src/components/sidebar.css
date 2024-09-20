@@ -1,0 +1,115 @@
+.sidebar-group {
+  margin-bottom: 3.2rem;
+}
+
+.skill-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-bottom: 1.2rem;
+}
+
+.skill-header .faCaretDown {
+  font-size: 2rem;
+  line-height: 2rem;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.2rem;
+  margin-bottom: 1.2rem;
+  width: 100%;
+  border: 0.2rem solid #351a5f18;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  -webkit-transition: border-color 0.15s ease-in-out,
+    box-shadow 0.15s ease-in-out;
+  -moz-transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  -ms-transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  -o-transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  border-radius: 0.6rem;
+  -webkit-border-radius: 0.6rem;
+  -moz-border-radius: 0.6rem;
+  -ms-border-radius: 0.6rem;
+  -o-border-radius: 0.6rem;
+}
+
+.search-box:focus-within {
+  border: 0.2rem solid #351a5f;
+}
+
+.search-box .faSearch {
+  font-size: 1.6rem;
+  color: #351a5f59;
+}
+
+.skill-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.skill-row:last-child {
+  margin-bottom: 0;
+}
+
+.skill-type {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  gap: 1rem;
+  flex: 1 0 0;
+}
+
+.search-box input[type="text"] {
+  flex: 1 0 0;
+  outline: none;
+  border: none;
+  box-shadow: none;
+  line-height: 1.5;
+  background-color: transparent;
+}
+
+.search-box input[type="text"],
+.skill-type label {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #351a5f;
+}
+
+.skill-row span {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #351a5f59;
+}
+
+.skill-type input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 1.6rem;
+  height: 1.6rem;
+  position: relative;
+  top: 0.4rem;
+  border: 0.1rem solid #351a5f;
+  border-radius: 0.4rem;
+  -webkit-border-radius: 0.4rem;
+  -moz-border-radius: 0.4rem;
+  -ms-border-radius: 0.4rem;
+  -o-border-radius: 0.4rem;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #351a5f;
+}
+
+input[type="checkbox"]:checked::before {
+  content: "✔";
+  color: #e8edfd;
+  font-size: 1rem;
+  position: absolute;
+  top: 0.1rem;
+  left: 0.3rem;
+}

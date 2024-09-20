@@ -9,10 +9,10 @@ import { NavLink } from "react-router-dom";
 const PaginationList = () => {
   return (
     <div>
-      <ul className="flex gap-lg-16 gap-md-5 gap-sm-0 text-2xl align-items-center justify-content-center my-6 text-center">
+      <ul className="navbar-nav">
         <li className="nav-item disabled">
           <NavLink className={`nav-link`}>
-            <FontAwesomeIcon icon={faChevronLeft} className="text-gray-500" />
+            <FontAwesomeIcon icon={faChevronLeft} className="" />
           </NavLink>
         </li>
 
@@ -40,7 +40,7 @@ const PaginationList = () => {
 
         <li className="nav-item">
           <NavLink className={`nav-link`}>
-            <FontAwesomeIcon icon={faChevronRight} className="text-gray-500" />
+            <FontAwesomeIcon icon={faChevronRight} className="" />
           </NavLink>
         </li>
       </ul>
