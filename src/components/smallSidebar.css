@@ -1,0 +1,173 @@
+@media (width > 768px) {
+  .smallSideBar {
+    display: none;
+  }
+}
+
+.smallSideBar {
+  position: relative;
+}
+
+.offcanvas {
+  position: absolute;
+
+  background: linear-gradient(
+    to bottom right,
+    #e8edfd,
+    #e8ecfd,
+    #e9ebfc,
+    #ebeafc,
+    #eaeafc,
+    #ebeafc
+  );
+
+  padding: 2.8rem;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.offcanvas-btn {
+  background: transparent;
+  border: 0.1rem solid #351a5f;
+  display: flex;
+  border-radius: 0.8rem;
+  -webkit-border-radius: 0.8rem;
+  -moz-border-radius: 0.8rem;
+  -ms-border-radius: 0.8rem;
+  -o-border-radius: 0.8rem;
+
+  outline: none;
+  box-shadow: none;
+}
+
+.offcanvas-btn:hover,
+.offcanvas-btn:focus {
+  outline: none;
+  scale: 1.1;
+  border: 0.1rem solid #351a5f;
+  box-shadow: none;
+  background: #a49bb43f;
+}
+
+.offcanvas-btn span {
+  font-size: 1.6rem;
+  color: #351a5f;
+}
+
+.offcanvas.offcanvas-start {
+  width: 300px;
+  height: 100%;
+  left: 0;
+  top: 0;
+  transform: translateX(-100%);
+  transition: transform 0.5s linear;
+  -webkit-transition: transform 0.5s linear;
+  -moz-transition: transform 0.5s linear;
+  -ms-transition: transform 0.5s linear;
+  -o-transition: transform 0.5s linear;
+}
+
+.offcanvas.offcanvas-start.show {
+  transform: translateX(0);
+}
+
+.offcanvas.header {
+  display: flex;
+  flex-direction: row;
+}
+
+.body-heading {
+  margin-bottom: 1.6rem;
+  border-bottom: 0.1rem solid #351a5f30;
+  padding-bottom: 2rem;
+}
+
+.body-heading .faClose {
+  font-size: 2rem;
+  color: #351a5f;
+}
+
+.offcanvas-body {
+  max-height: 100vh;
+  overflow-y: auto;
+}
+
+.overflow-y-scroll {
+  overflow-y: auto; /* Enables scrolling */
+  max-height: 400px; /* Ensures the content can scroll */
+  scrollbar-width: none; /* Hides scrollbar in Firefox */
+  -ms-overflow-style: none; /* Hides scrollbar in IE/Edge */
+}
+
+.overflow-y-scroll::-webkit-scrollbar {
+  display: none; /* Hides scrollbar in Chrome, Safari, Edge */
+}
+
+/*! Accordian */
+
+
+.accordion .accordion-button {
+  width: 100%; 
+  /* display: block;  */
+  padding: 10px; 
+  text-align: left; 
+  border: none; 
+}
+
+/* Remove background, borders, and other default styles */
+.accordion .accordion-item {
+  border: none; /* Remove border */
+  background-color: transparent; /* Remove background */
+}
+
+/* Accordion Header */
+.accordion .accordion-header {
+  background-color: transparent; 
+  border: none; 
+  box-shadow: none;
+}
+
+.accordion .accordion-header:focus{
+  box-shadow: none;
+  border: none;
+  outline: none;
+}
+
+/* Accordion Button (the clickable header) */
+.accordion .accordion-button {
+  background-color: transparent; /* Remove background */
+  color: inherit; /* Use inherited text color */
+  border: none; /* Remove border */
+  box-shadow: none; /* Remove Bootstrap default shadow */
+  padding: 10px; /* Adjust padding if needed */
+}
+
+/* When the accordion is expanded */
+.accordion .accordion-button:not(.collapsed) {
+  background-color: transparent; /* Remove the expanded background */
+  color: inherit; /* Inherit text color */
+}
+
+/* Accordion Body */
+.accordion .accordion-body {
+  background-color: transparent; /* Remove background */
+  padding: 10px; /* Adjust padding as needed */
+}
+
+/* Optional: Style the expanded accordion */
+.accordion .accordion-item.active .accordion-button {
+  background-color: transparent; 
+  color: inherit;
+  border: none;
+  box-shadow: none;
+}
+
+.accordion-button:focus {
+  outline: none; /* Remove the yellow border */
+  box-shadow: none; /* Remove the Bootstrap box-shadow */
+}
+
+
+/*! Accordian Data */
+

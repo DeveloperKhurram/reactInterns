@@ -28,6 +28,7 @@ import personTwentySeven from "./person-27.jpg";
 import personTwentyEight from "./person-28.jpg";
 import personTwentyNine from "./person-29.jpg";
 import personThirty from "./person-30.jpg";
+import allFilter from "./all-filter-icon.svg";
 
 export {
   personOne,
@@ -60,4 +61,5 @@ export {
   personTwentyEight,
   personTwentyNine,
   personThirty,
+  allFilter,
 };

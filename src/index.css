@@ -107,8 +107,4 @@ p {
   border: 0.1rem solid #351a5f59;
 }
 
-@media (width > 768px) {
-  .smallSideBar{
-  display: none;
-  }
-}
+
