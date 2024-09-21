@@ -59,6 +59,7 @@ p {
 
 .navbar-nav {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   align-items: center;
   justify-content: center;
@@ -104,4 +105,10 @@ p {
 
 .nav-item.disabled {
   border: 0.1rem solid #351a5f59;
+}
+
+@media (width > 768px) {
+  .smallSideBar{
+  display: none;
+  }
 }

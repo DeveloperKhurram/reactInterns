@@ -113,3 +113,10 @@ input[type="checkbox"]:checked::before {
   top: 0.1rem;
   left: 0.3rem;
 }
+
+@media (width <= 768px) {
+  .large-sidebar{
+    display: none;
+  }
+  
+}

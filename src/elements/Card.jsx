@@ -4,7 +4,7 @@ import ProgressBar from "react-bootstrap/ProgressBar";
 
 const Card = ({ name, image, location, skills, position }) => {
   return (
-    <article className="card-item ">
+    <article className="card-item h-100">
       <div className="card-picture">
         <img src={image} alt={name} />
       </div>
@@ -14,8 +14,8 @@ const Card = ({ name, image, location, skills, position }) => {
           <h4 className="">{position}</h4>
         </div>
 
-        <p className="">{`${location.city} - ${location.state} - ${location.country}`}</p>
-        <span className="d-block text-break mb-2">{skills.join(" | ")}</span>
+        <p className="text-break">{`${location.city} - ${location.state}`}</p>
+        <span className="d-block mb-2 ">{skills.join(" | ")}</span>
         <ProgressBar now={60} className="progressBar" />
       </div>
     </article>
