@@ -57,7 +57,7 @@
 
 .offcanvas.offcanvas-start {
   width: 300px;
-  height: 100%;
+  height: 100vh;
   left: 0;
   top: 0;
   transform: translateX(-100%);
@@ -78,7 +78,7 @@
 }
 
 .body-heading {
-  margin-bottom: 1.6rem;
+  margin-bottom: 1.2rem;
   border-bottom: 0.1rem solid #351a5f30;
   padding-bottom: 2rem;
 
@@ -92,85 +92,38 @@
 }
 
 .offcanvas-body {
-  max-height: 100vh;
+  height: 100vh;
   overflow-y: auto;
 }
 
 .overflow-y-scroll {
-  overflow-y: auto; /* Enables scrolling */
-  max-height: 400px; /* Ensures the content can scroll */
-  scrollbar-width: none; /* Hides scrollbar in Firefox */
-  -ms-overflow-style: none; /* Hides scrollbar in IE/Edge */
+  overflow-y: auto; 
+  height: 100vh;
+  max-height: 400px;
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
 }
 
 .overflow-y-scroll::-webkit-scrollbar {
-  display: none; /* Hides scrollbar in Chrome, Safari, Edge */
+  display: none; 
 }
 
 /*! Accordian */
 
+.accordion .accordion-button {
+  width: 100%;
+}
 
 .accordion .accordion-button {
-  width: 100%; 
-  /* display: block;  */
-  padding: 10px; 
-  text-align: left; 
-  border: none; 
-}
-
-/* Remove background, borders, and other default styles */
-.accordion .accordion-item {
-  border: none; /* Remove border */
-  background-color: transparent; /* Remove background */
-}
-
-/* Accordion Header */
-.accordion .accordion-header {
-  background-color: transparent; 
-  border: none; 
-  box-shadow: none;
-}
-
-.accordion .accordion-header:focus{
-  box-shadow: none;
+  background-color: transparent;
   border: none;
-  outline: none;
+  padding: 0 10px;
 }
 
-/* Accordion Button (the clickable header) */
-.accordion .accordion-button {
-  background-color: transparent; /* Remove background */
-  color: inherit; /* Use inherited text color */
-  border: none; /* Remove border */
-  box-shadow: none; /* Remove Bootstrap default shadow */
-  padding: 10px; /* Adjust padding if needed */
-}
-
-/* When the accordion is expanded */
-.accordion .accordion-button:not(.collapsed) {
-  background-color: transparent; /* Remove the expanded background */
-  color: inherit; /* Inherit text color */
-}
-
-/* Accordion Body */
 .accordion .accordion-body {
-  background-color: transparent; /* Remove background */
-  padding: 10px; /* Adjust padding as needed */
-}
-
-/* Optional: Style the expanded accordion */
-.accordion .accordion-item.active .accordion-button {
-  background-color: transparent; 
-  color: inherit;
-  border: none;
-  box-shadow: none;
+  padding: 0 10px;
 }
 
 .accordion-button:focus {
-  outline: none; /* Remove the yellow border */
-  box-shadow: none; /* Remove the Bootstrap box-shadow */
+  outline: none;
 }
-
-
-/*! Accordian Data */
-

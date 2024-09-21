@@ -119,7 +119,34 @@ input[type="checkbox"]:checked::before {
 }
 
 @media (width <= 768px) {
+}
+
+@media (width <= 768px) {
   .large-sidebar {
     display: none;
+  }
+
+  .skill-type input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 1.6rem;
+    height: 1.6rem;
+    position: relative;
+    top: 0.1rem;
+    border: 0.1rem solid #351a5f;
+    border-radius: 0.4rem;
+    -webkit-border-radius: 0.4rem;
+    -moz-border-radius: 0.4rem;
+    -ms-border-radius: 0.4rem;
+    -o-border-radius: 0.4rem;
+  }
+
+  input[type="checkbox"]:checked::before {
+    content: "✔";
+    color: #e8edfd;
+    font-size: 0.8rem;
+    position: absolute;
+    top: 0.1rem;
+    left: 0.3rem;
   }
 }
