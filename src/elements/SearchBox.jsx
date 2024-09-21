@@ -6,7 +6,7 @@ const SearchBox = ({ name }) => {
   // const placeholderText = typeof name === 'string' ? name : '';
 
   return (
-    <div className="search-box ">
+    <div className="search-box">
       <input
         type="text"
         name={`${name}`}

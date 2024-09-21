@@ -21,7 +21,7 @@
     #ebeafc
   );
 
-  padding: 2.8rem;
+  padding: 2.8rem 1.2rem;
 
   display: flex;
   flex-direction: column;
@@ -81,6 +81,9 @@
   margin-bottom: 1.6rem;
   border-bottom: 0.1rem solid #351a5f30;
   padding-bottom: 2rem;
+
+  display: flex;
+  justify-content: space-between;
 }
 
 .body-heading .faClose {

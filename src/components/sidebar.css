@@ -19,7 +19,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 1.2rem;
+  padding: 1.2rem 0.4rem 1.2rem 0;
   margin-bottom: 1.2rem;
   width: 100%;
   border: 0.2rem solid #351a5f18;
@@ -39,6 +39,10 @@
 
 .search-box:focus-within {
   border: 0.2rem solid #351a5f;
+}
+
+.search-box input {
+  margin-left: 0.8rem;
 }
 
 .search-box .faSearch {
@@ -75,13 +79,13 @@
 
 .search-box input[type="text"],
 .skill-type label {
-  font-size: 1.6rem;
+  font-size: clamp(1.2rem, 1.6vw, 1.6rem);
   font-weight: 400;
   color: #351a5f;
 }
 
 .skill-row span {
-  font-size: 1.6rem;
+  font-size: clamp(1.2rem, 1.6vw, 1.6rem);
   font-weight: 400;
   color: #351a5f59;
 }
@@ -115,8 +119,7 @@ input[type="checkbox"]:checked::before {
 }
 
 @media (width <= 768px) {
-  .large-sidebar{
+  .large-sidebar {
     display: none;
   }
-  
 }

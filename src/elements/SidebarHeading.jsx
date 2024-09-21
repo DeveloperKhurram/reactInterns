@@ -5,7 +5,7 @@ import { faCaretDown } from "@fortawesome/free-solid-svg-icons";
 const SidebarHeading = ({ heading }) => {
   return (
     <div className="skill-header ">
-      <h2>{heading}</h2>
+      <h3>{heading}</h3>
       <FontAwesomeIcon icon={faCaretDown} className="faCaretDown" />
     </div>
   );
