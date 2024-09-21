@@ -16,7 +16,7 @@
     #eaeafc,
     #ebeafc
   );
-  padding: 0.8rem 1.2rem ;
+  padding: 0.8rem 1.2rem;
   display: flex;
   align-items: center;
   justify-content: start;
@@ -56,10 +56,16 @@
   justify-content: start;
 }
 
-.card-text .borderBottom{
-    border-bottom: 0.1rem solid #482a7850;
-    padding-bottom: 0.4rem;
-    margin-bottom: 0.8rem;
+.card-text .borderBottom {
+  border-bottom: 0.1rem solid #482a7850;
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.8rem;
+}
+
+.card-text span {
+  display: block;
+  font-size: 1.2rem;
+  height: 2.8rem;
 }
 
 .progressBar {
@@ -72,6 +78,7 @@
   -o-border-radius: 0.6rem;
   overflow: hidden;
   border: 0.1rem solid #351a5f;
+  margin: 1.2rem 0 0.4rem;
 }
 
 .progressBar .progress-bar {

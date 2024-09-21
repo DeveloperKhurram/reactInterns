@@ -12,7 +12,7 @@ const Main = () => {
       </div>
       <List>
         {data.map((intern) => (
-          <div className="col-md-12 col-lg-6" key={intern.id}>
+          <div className="col-md-6 col-lg-6 col-xl-4" key={intern.id}>
             <Card image={image[intern.picture]} {...intern} />
           </div>
         ))}
