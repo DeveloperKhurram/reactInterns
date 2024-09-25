@@ -3,6 +3,7 @@ import "./header.css";
 import data from "../data/interns.json";
 import * as image from "../images";
 import { ListMarquee, CardMarquee } from "../elements/index.js";
+import { lefttop, rightbottom } from "../images/index.js";
 
 const Header = () => {
   const filteredStudents = data.filter((intern) => intern.grade > 90);
@@ -12,8 +13,8 @@ const Header = () => {
     <div className="pb-2 px-8 ">
       <ListMarquee>
         <div className="marquee-container my-8  ">
-          <img className="img-left" src="src/images/left-top.png" alt="image" />
-          <img className="img-right" src="src/images/right-bottom.png" alt="image" />
+          <img className="img-left" src={lefttop} alt="image" />
+          <img className="img-right" src={rightbottom} alt="image" />
           <h2 className=" mb-5">Recommended Interns</h2>
           <div className="marquee">
             {repeatedStudents.map((intern) => (
