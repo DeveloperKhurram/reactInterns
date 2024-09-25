@@ -14,11 +14,18 @@
 
 .marquee-container h2 {
   text-align: center;
+
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
 }
 
 @media (width < 500px) {
   .marquee-container h2 {
-    text-align: end;
     font-size: 2.4rem;
     padding: 0 1.2rem 0 6.4rem;
   }
@@ -99,6 +106,13 @@
 .marquee-item .card-marquee {
   width: 100%;
   text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 6rem;
 }
 
 @keyframes marquee {
@@ -116,13 +130,6 @@
     -ms-transform: translateX(-50%);
     -o-transform: translateX(-50%);
   }
-}
-
-.card-marquee {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 .card-image {
