@@ -4,7 +4,7 @@ const HomePage = () => {
   return (
     <>
       <Header />
-      <div className="container-fluid">
+      <div className="container">
         <div className="row">
           <div className="col-md-4 col-lg-4 col-xl-3 large-sidebar">
             <Sidebar />

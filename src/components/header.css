@@ -93,8 +93,8 @@
 
 @media (width <426) {
   .marquee {
-    animation: marquee 2s linear infinite;
-    -webkit-animation: marquee 2s linear infinite;
+    animation: marquee 0.25s linear infinite;
+    -webkit-animation: marquee 0.25s linear infinite;
   }
 }
 
