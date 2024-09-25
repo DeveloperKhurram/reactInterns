@@ -11,7 +11,7 @@
 .offcanvas {
   position: absolute;
 
-  background: linear-gradient(
+  /* background: linear-gradient(
     to bottom right,
     #e8edfd,
     #e8ecfd,
@@ -19,8 +19,9 @@
     #ebeafc,
     #eaeafc,
     #ebeafc
-  );
+  ); */
 
+  background: #fff;
   padding: 2.8rem 1.2rem;
 
   display: flex;
@@ -29,7 +30,7 @@
 
 .offcanvas-btn {
   background: transparent;
-  border: 0.1rem solid #351a5f;
+  border: 0.1rem solid #333;
   display: flex;
   border-radius: 0.8rem;
   -webkit-border-radius: 0.8rem;
@@ -45,14 +46,14 @@
 .offcanvas-btn:focus {
   outline: none;
   scale: 1.1;
-  border: 0.1rem solid #351a5f;
+  border: 0.1rem solid #333;
   box-shadow: none;
-  background: #a49bb43f;
+  background: #eee;
 }
 
 .offcanvas-btn span {
   font-size: 1.6rem;
-  color: #351a5f;
+  color: #333;
 }
 
 .offcanvas.offcanvas-start {
@@ -79,7 +80,7 @@
 
 .body-heading {
   margin-bottom: 1.2rem;
-  border-bottom: 0.1rem solid #351a5f30;
+  border-bottom: 0.1rem solid #000;
   padding-bottom: 2rem;
 
   display: flex;
@@ -88,7 +89,7 @@
 
 .body-heading .faClose {
   font-size: 2rem;
-  color: #351a5f;
+  color: #000;
 }
 
 .offcanvas-body {
@@ -97,13 +98,13 @@
 }
 
 .overflow-y-scroll {
-  overflow-y: auto; 
-  scrollbar-width: none; 
-  -ms-overflow-style: none; 
+  overflow-y: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 }
 
 .overflow-y-scroll::-webkit-scrollbar {
-  display: none; 
+  display: none;
 }
 
 ::-webkit-scrollbar {
@@ -128,4 +129,8 @@
 
 .accordion-button:focus {
   outline: none;
+}
+
+hr{
+  /* background-color: #fff; */
 }
