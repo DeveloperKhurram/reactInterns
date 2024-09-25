@@ -3,7 +3,30 @@
   overflow: hidden;
   position: relative;
   padding: 3.2rem;
-  background: linear-gradient(to right bottom, #16031f99, #8378e89f, #8378e847);
+  background: url("../images/bg-banner.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  /* background: linear-gradient(to right bottom, #16031f99, #8378e89f, #8378e847); */
+}
+
+.img-left {
+  position: absolute;
+  visibility: visible;
+  animation-name: zoomIn;
+  left: -60px;
+  top: 0px;
+  vertical-align: middle;
+}
+
+.img-right {
+  visibility: visible;
+  animation-name: zoomIn;
+  bottom: -50px;
+  position: absolute;
+  right: 0px;
+  vertical-align: middle;
 }
 
 /* .marquee {
@@ -38,14 +61,14 @@
     -moz-transform: translateX(0);
     -ms-transform: translateX(0);
     -o-transform: translateX(0);
-}
+  }
   100% {
     transform: translateX(-50%);
     -webkit-transform: translateX(-50%);
     -moz-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
     -o-transform: translateX(-50%);
-}
+  }
 }
 
 .card-marquee {

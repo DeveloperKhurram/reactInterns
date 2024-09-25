@@ -38,7 +38,7 @@
 }
 
 .search-box:focus-within {
-  border: 0.2rem solid #351a5f;
+  border: 0.2rem solid #333;
 }
 
 .search-box input {
@@ -47,7 +47,7 @@
 
 .search-box .faSearch {
   font-size: 1.6rem;
-  color: #351a5f59;
+  color: #76639530;
 }
 
 .skill-row {
@@ -81,13 +81,13 @@
 .skill-type label {
   font-size: clamp(1.2rem, 1.6vw, 1.6rem);
   font-weight: 400;
-  color: #351a5f;
+  color: #333;
 }
 
 .skill-row span {
   font-size: clamp(1.2rem, 1.6vw, 1.6rem);
   font-weight: 400;
-  color: #351a5f59;
+  color: #;
 }
 
 .skill-type input[type="checkbox"] {
@@ -97,7 +97,7 @@
   height: 1.6rem;
   position: relative;
   top: 0.4rem;
-  border: 0.1rem solid #351a5f;
+  border: 0.1rem solid #333;
   border-radius: 0.4rem;
   -webkit-border-radius: 0.4rem;
   -moz-border-radius: 0.4rem;
@@ -106,7 +106,7 @@
 }
 
 input[type="checkbox"]:checked {
-  background-color: #351a5f;
+  background-color: #333;
 }
 
 input[type="checkbox"]:checked::before {
@@ -133,7 +133,7 @@ input[type="checkbox"]:checked::before {
     height: 1.6rem;
     position: relative;
     top: 0.1rem;
-    border: 0.1rem solid #351a5f;
+    border: 0.1rem solid #333;
     border-radius: 0.4rem;
     -webkit-border-radius: 0.4rem;
     -moz-border-radius: 0.4rem;

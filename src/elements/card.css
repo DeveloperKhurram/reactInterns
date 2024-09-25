@@ -5,9 +5,9 @@
 }
 
 .card-item {
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
-    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
-  background: linear-gradient(
+  /* box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px; */
+  /* background: linear-gradient(
     to bottom right,
     #e8edfd,
     #e8ecfd,
@@ -15,7 +15,8 @@
     #ebeafc,
     #eaeafc,
     #ebeafc
-  );
+  ); */
+  border: 0.1rem solid #eee;
   padding: 0.8rem 1.2rem;
   display: flex;
   flex-direction: column;
@@ -27,6 +28,8 @@
   -moz-border-radius: 0.8rem;
   -ms-border-radius: 0.8rem;
   -o-border-radius: 0.8rem;
+
+  box-shadow: rgba(99, 99, 99, 0.1) 0px 2px 8px 0px;
 }
 
 .card-item:hover {
@@ -36,7 +39,7 @@
 
 .card-picture {
   width: 9rem;
-  height: 9rem;
+  height: 8.2rem;
   overflow: hidden;
   border-radius: 50%;
   -webkit-border-radius: 50%;
@@ -56,35 +59,63 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 100%;
+}
+
+.card-text h3,
+h4 {
+  text-align: center;
+  margin-bottom: 1.2rem;
 }
 
 .card-text .borderBottom {
-  border-bottom: 0.1rem solid #482a7850;
-  padding-bottom: 0.4rem;
-  margin-bottom: 0.8rem;
+  border-bottom: 0.1rem solid #eee;
+  padding-bottom: 1.2rem;
+  margin-bottom: 1.2rem;
 }
 
-.card-text span {
+.card-text .skills li {
+  background-color: rgb(255, 237, 232);
+  border-radius: 60px;
+  color: var(--headings-color);
+  font-family: var(--title-font-family);
+  font-weight: 500;
+  display: inline-block;
+  padding: 0.4rem 1.2rem;
+  font-style: normal;
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+}
+
+/* .card-text span {
   display: block;
   font-size: 1.2rem;
   height: 2.8rem;
-}
+  border: 0.1rem solid #333;
+} */
 
 .progressBar {
   background-color: #76639530;
-  height: 0.8rem;
+  height: 1.6rem;
   border-radius: 0.6rem;
   -webkit-border-radius: 0.6rem;
   -moz-border-radius: 0.6rem;
   -ms-border-radius: 0.6rem;
   -o-border-radius: 0.6rem;
   overflow: hidden;
-  border: 0.1rem solid #351a5f;
-  margin: 1.2rem 0 0.4rem;
+  border: 0.1rem solid #eee;
+  /* margin: 1.2rem 0 0.4rem; */
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  width: 90%;
+  font-size: 1.2rem;
 }
 
 .progressBar .progress-bar {
-  background-color: #351a5f;
+  background-color: #333;
+  border: 0.1rem solid #333;
   transition: width 0.6s ease;
-  border: 0.1rem solid #351a5f;
+  -webkit-transition: width 0.6s ease;
+  -moz-transition: width 0.6s ease;
+  -ms-transition: width 0.6s ease;
+  -o-transition: width 0.6s ease;
 }

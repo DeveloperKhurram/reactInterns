@@ -9,11 +9,12 @@ const Header = () => {
 
   const repeatedStudents = [...filteredStudents, ...filteredStudents];
   return (
-    <div className="py-4 px-8 ">
-      <h1 className="text-center">Recommended Interns</h1>
-
+    <div className="pb-2 px-8 ">
       <ListMarquee>
         <div className="marquee-container my-8  ">
+          <img className="img-left" src="src/images/left-top.png" alt="image" />
+          <img className="img-right" src="src/images/right-bottom.png" alt="image" />
+          <h2 className="text-center mb-5">Recommended Interns</h2>
           <div className="marquee">
             {repeatedStudents.map((intern) => (
               <div className="marquee-item" key={intern.id}>
