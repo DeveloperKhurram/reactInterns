@@ -8,7 +8,7 @@ const Main = () => {
     <div className="w-100 d-flex flex-column">
       <List>
         {data.map((intern) => (
-          <div className="col-md-6 col-lg-6 col-xl-4" key={intern.id}>
+          <div className="col-sm-6 col-xl-4" key={intern.id}>
             <Card image={image[intern.picture]} {...intern} />
           </div>
         ))}

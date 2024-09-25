@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background: linear-gradient(
+  /* background: linear-gradient(
     to bottom right,
     #e8edfd,
     #e8ecfd,
@@ -17,7 +17,9 @@ body {
     #ebeafc,
     #eaeafc,
     #ebeafc
-  );
+  ); */
+
+  background: #ffff;
 }
 
 h1,

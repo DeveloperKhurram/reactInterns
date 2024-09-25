@@ -6,32 +6,46 @@
   background: linear-gradient(to right bottom, #16031f99, #8378e89f, #8378e847);
 }
 
-.marquee {
+/* .marquee {
   display: flex;
   width: 200%;
-  animation: marquee 35s linear infinite;
-  -webkit-animation: marquee 35s linear infinite;
-}
-
-@media (width <= 320px) {
-  .marquee {
-    animation-duration: 3s;
-  }
+  animation: marquee 25s linear infinite;
+  -webkit-animation: marquee 25s linear infinite;
 }
 
 .marquee-item {
   flex: 0 0 auto;
-  min-width: 200px;
-  margin-right: 20px;
+  min-width: 20rem;
+  margin-right: 1.2rem;
+} */
+
+.marquee {
+  display: flex;
+  width: auto;
+  animation: marquee 5s linear infinite;
+  -webkit-animation: marquee 5s linear infinite;
+}
+
+.marquee-item {
+  flex: 0 0 clamp(10rem, 20vw, 20rem);
+  margin-right: 1.2rem;
 }
 
 @keyframes marquee {
   0% {
     transform: translateX(0);
-  }
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    -ms-transform: translateX(0);
+    -o-transform: translateX(0);
+}
   100% {
     transform: translateX(-50%);
-  }
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
 }
 
 .card-marquee {
