@@ -33,7 +33,7 @@
     }
   }
 
-  .card-marquee .card-image{
+  .card-marquee .card-image {
     width: 7rem;
     height: 7rem;
   }
@@ -73,8 +73,22 @@
 .marquee {
   display: flex;
   width: auto;
-  animation: marquee 5s linear infinite;
-  -webkit-animation: marquee 5s linear infinite;
+  animation: marquee 25s linear infinite;
+  -webkit-animation: marquee 25s linear infinite;
+}
+
+@media (width <=768) {
+  .marquee {
+    animation: marquee 15s linear infinite;
+    -webkit-animation: marquee 15s linear infinite;
+  }
+}
+
+@media (width <426) {
+  .marquee {
+    animation: marquee 2s linear infinite;
+    -webkit-animation: marquee 2s linear infinite;
+  }
 }
 
 .marquee-item {

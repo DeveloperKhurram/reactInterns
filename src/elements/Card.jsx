@@ -10,7 +10,7 @@ const Card = ({ name, image, location, skills, position }) => {
         <div className="card-picture">
           <img src={image} alt={name} />
         </div>
-        <div className="card-text h-100 w-100">
+        <div className="card-text ">
           <div className="borderBottom">
             <h3 className="">{name}</h3>
             <h4 className="">{position}</h4>
