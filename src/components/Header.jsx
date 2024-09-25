@@ -14,7 +14,7 @@ const Header = () => {
         <div className="marquee-container my-8  ">
           <img className="img-left" src="src/images/left-top.png" alt="image" />
           <img className="img-right" src="src/images/right-bottom.png" alt="image" />
-          <h2 className="text-center mb-5">Recommended Interns</h2>
+          <h2 className=" mb-5">Recommended Interns</h2>
           <div className="marquee">
             {repeatedStudents.map((intern) => (
               <div className="marquee-item" key={intern.id}>

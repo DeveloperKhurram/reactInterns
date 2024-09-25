@@ -2,13 +2,41 @@
   width: 100%;
   overflow: hidden;
   position: relative;
-  padding: 3.2rem;
+  padding: 1.2rem 0 0;
   background: url("../images/bg-banner.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+
   /* background: linear-gradient(to right bottom, #16031f99, #8378e89f, #8378e847); */
+}
+
+.marquee-container h2 {
+  text-align: center;
+}
+
+@media (width < 500px) {
+  .marquee-container h2 {
+    text-align: end;
+    font-size: 2.4rem;
+    padding: 0 1.2rem 0 6.4rem;
+  }
+
+  .card-marquee .card-body {
+    & h3 {
+      font-size: 1.4rem;
+    }
+
+    & h4 {
+      font-size: 1.2rem;
+    }
+  }
+
+  .card-marquee .card-image{
+    width: 7rem;
+    height: 7rem;
+  }
 }
 
 .img-left {
@@ -52,6 +80,11 @@
 .marquee-item {
   flex: 0 0 clamp(10rem, 20vw, 20rem);
   margin-right: 1.2rem;
+}
+
+.marquee-item .card-marquee {
+  width: 100%;
+  text-align: center;
 }
 
 @keyframes marquee {
